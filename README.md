@@ -1,9 +1,7 @@
-# machine-learning
+# WeYoung_Machine-Learning
 参考[飞书文档](https://we-young.feishu.cn/wiki/XTgXwONG8iVhYMkU8gFcKT7ZnWe)
 
 时间节点：2023.12.15 - 2024.2.1
-
-欢迎补充资料，可以提pr，审核通过后，展示给学习者共同学习。
 
 未央学社ai组，交作业格式规范：姓名（昵称） + 时间 + Machine_learning.
 
