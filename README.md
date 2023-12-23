@@ -1,5 +1,5 @@
 # machine-learning
-参考[飞书文档]([https://we-young.feishu.cn/wiki/XTgXwONG8iVhYMkU8gFcKT7ZnWe](https://we-young.feishu.cn/wiki/XTgXwONG8iVhYMkU8gFcKT7ZnWe))
+参考[飞书文档]([https://we-young.feishu.cn/wiki/XTgXwONG8iVhYMkU8gFcKT7ZnWe])
 
 时间节点：2023.12.15 - 2024.2.1
 
